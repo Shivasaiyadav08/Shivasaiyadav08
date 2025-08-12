@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Shivasaiyadav
 - 👀 I’m interested in Blockchain 
-- 🌱 I’m currently learning solidity 
+- 🌱 I’m currently learning Foundry
 - 💞️ I’m looking to collaborate on web3.
 - 📫 How to reach me 
 - 😄 Pronouns: ...
