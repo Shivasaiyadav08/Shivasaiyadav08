@@ -1,46 +1,128 @@
-Hi, I'm Shiva Sai Yadav 👋
 
-Software Developer | Full-Stack & AI | Blockchain & DeFi
+<div align="center">
 
-I build scalable applications, intelligent systems, and decentralized solutions, with a focus on clean architecture, performance, and real-world impact.
+# Hi, I'm Shiva Sai Yadav 👋
 
-About Me
+### Software Developer | Full-Stack & AI | Blockchain & DeFi
 
-- 💻 Passionate about full-stack software development
-- 🤖 Exploring AI agents, LLMs, and intelligent automation
-- ⛓️ Interested in blockchain, smart contracts, Web3, and DeFi
-- 🚀 Focused on scalable backend systems and cloud technologies
-- 🌱 Continuously learning and improving my engineering skills
+Building scalable applications, intelligent systems, and decentralized solutions.
 
-Tech Stack
+[![GitHub followers](https://img.shields.io/github/followers/Shivasaiyadav08?style=for-the-badge&logo=github&label=Followers)](https://github.com/Shivasaiyadav08?tab=followers)
+![Profile Views](https://komarev.com/ghpvc/?username=Shivasaiyadav08&style=for-the-badge&color=blue)
 
-Languages: JavaScript · TypeScript · Python · Java · PHP · Solidity
+</div>
 
-Frontend: React · Next.js · Tailwind CSS
+---
 
-Backend: Node.js · Express · REST APIs · Java · PHP
+## 👨‍💻 About Me
 
-AI: LLM Integration · AI Agents · LangChain
+I'm a software developer passionate about building real-world applications, intelligent systems, and decentralized technologies.
 
-Blockchain: Solidity · Smart Contracts · Web3 · DeFi
+- 💻 Full-Stack Web Development
+- 🤖 Artificial Intelligence, LLMs & AI Agents
+- ⛓️ Blockchain, Solidity, Web3 & DeFi
+- ⚙️ Backend Engineering & REST APIs
+- ☁️ Cloud Deployment, Docker & DevOps
+- 🚀 Scalable Architecture & Performance Optimization
+- 📚 Always exploring new technologies
 
-Database & Cloud: PostgreSQL · MongoDB · Supabase · Docker · Git
+---
 
-What I'm Building
+## 🛠️ Tech Stack
 
-I enjoy working on projects involving:
+### 💻 Programming Languages
 
-- Full-stack web applications
-- AI-powered tools and automation
-- Blockchain and decentralized applications
-- Scalable APIs and backend infrastructure
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
 
-GitHub Activity
+### 🎨 Frontend Development
 
-"GitHub Stats" (https://github-readme-stats.vercel.app/api?username=Shivasaiyadav08&show_icons=true&theme=github_dark)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-"Top Languages" (https://github-readme-stats.vercel.app/api/top-langs/?username=Shivasaiyadav08&layout=compact&theme=github_dark)
+### ⚙️ Backend Development
 
-Let's Connect
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge)
 
-Always open to collaborating on meaningful software, AI, blockchain, and open-source projects.
+### 🤖 Artificial Intelligence
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge)
+![Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+
+### ⛓️ Blockchain & DeFi
+
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3dotjs&logoColor=white)
+![Hardhat](https://img.shields.io/badge/Hardhat-FFF100?style=for-the-badge&logoColor=black)
+![DeFi](https://img.shields.io/badge/DeFi-Decentralized_Finance-627EEA?style=for-the-badge)
+
+### 🗄️ Databases & Cloud
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shivasaiyadav08&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shivasaiyadav08&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Shivasaiyadav08&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Shivasaiyadav08&theme=tokyo-night&hide_border=true)
+
+---
+
+## 🚀 Areas of Interest
+
+- Full-Stack Applications & Software Architecture
+- AI Agents, LLMs & Intelligent Automation
+- Blockchain Development & Smart Contracts
+- Decentralized Finance (DeFi) & Web3
+- Cloud-Native Applications & DevOps
+- Open-Source Development
+
+---
+
+## 🤝 Let's Connect
+
+I'm interested in collaborating on innovative projects across software development, artificial intelligence, blockchain, and decentralized technologies.
+
+[![GitHub](https://img.shields.io/badge/GitHub-Shivasaiyadav08-181717?style=for-the-badge&logo=github)](https://github.com/Shivasaiyadav08)
+
+---
+
+<div align="center">
+
+### "Building intelligent, scalable, and decentralized solutions."
+
+⭐ Thanks for visiting my profile!
+
+</div>
